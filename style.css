@@ -1,0 +1,13 @@
+.text {
+    padding: 5px;
+    margin-top: 1%;
+    width:380px;
+    text-align: center;
+}
+
+.delete {
+    margin-left: 5px;
+}
+th{
+    text-align: center;
+}
